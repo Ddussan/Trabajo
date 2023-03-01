@@ -1,0 +1,26 @@
+*{
+ width: 500px;
+ height: 5px;
+ margin: auto;
+ padding: 4%;
+}
+.tabla{
+   border: 5px solid rgb(6, 42, 59);
+
+}  
+ tr, td{
+    border: 1px solid rgb(8, 21, 32);
+    background-color: aliceblue;
+
+}
+thead{
+ padding: 40%;
+ border:1px solid rgb(8, 21, 32);
+ background-color: blue;
+}
+.footer{
+   font-style: italic;
+   color: black;
+}
+
+    
